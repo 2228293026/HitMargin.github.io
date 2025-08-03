@@ -1,6 +1,6 @@
 {
-       "latest_version": "1.3.0",
-       "min_version": "1.2.0",
-       "release_notes": "1.2.9-修改替换方式，降低替换错误率。修复不同版本Android的文件访问权限。修复高版本安卓无法自动弹出输入法。\n1.3.0-添加可以在线更新工具",
-       "download_url": https://www.123865.com/s/8PmZVv-GsxhH"
+  "ChineseSimplified": {
+    "text": "F5开启更多设置 主要内容：更新星球颜色和透明度设置 \n 按键显示颜色设置 \n 可以设置文本字体 \n 编辑器添加新功能",
+    "url": "https://space.bilibili.com/1757946676?"
+  }
 }
